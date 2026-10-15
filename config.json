@@ -1,0 +1,11 @@
+{
+  "seed": 11,
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "epochs": 80,
+  "patience": 10,
+  "mean_budget": 12,
+  "tail_fraction": 0.2,
+  "sensitivity_floor": 0.5
+}
